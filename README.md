@@ -11,3 +11,4 @@ This project provides an API to retrieve a user's IP address, preferred language
 - 🖥 **User-Agent:** Retrieves the User-Agent string from the `User-Agent` header to determine the software (browser or device) used by the client.
 
 ---
+npm install express cors dotenv
